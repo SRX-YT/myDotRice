@@ -1,0 +1,21 @@
+{
+   "background": {
+      "service_worker": "serviceWorker.js"
+   },
+   "default_locale": "en",
+   "description": "__MSG_desc__",
+   "host_permissions": [ "*://*/*" ],
+   "icons": {
+      "64": "img/icon.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApCryGgZqsrpARbzSBOmRhAh+O+OXgJyQCLTcPiIqz3+7J+GeW/3Q4S5jQUuu/utp4BKBgll/awL3a39C8M0pHoiZ2mN3dPPIMdVAI9AFNbkMPA/bqMqDJOZ1jJ5yjN4ENz52GPMOT23KGok7DZweLPUNp6x6AtlQubsQ01iF3RiqCEGHERIWZVs1JqBaXfedMnhWAXTSp+YZ8ajljeEN8o9ElBr2mRWFVVWkD35iJ/z8etNBa9Q3ABap0IE/ujS2/kiVfpQAtlLjE+m7R/NTOlKuITejJV2QCHMadPCAhLvf1o658CZLIIak8dHqXC7P5WPUlG+cAlV8GDo3zOM8JwIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_name__",
+   "permissions": [ "proxy", "webRequest", "webRequestAuthProvider", "storage", "declarativeNetRequest", "declarativeNetRequestWithHostAccess", "offscreen" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.0.1",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "index.html" ]
+   } ]
+}

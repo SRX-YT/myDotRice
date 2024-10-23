@@ -1,0 +1,26 @@
+{
+   "description": {
+      "message": "Enregistrer de la musique à partir de VK est devenu facile ! Téléchargez vos morceaux préférés en vérifiant leurs débits et leurs tailles."
+   },
+   "extShortName": {
+      "message": "VKsaver"
+   },
+   "lang": {
+      "message": "en"
+   },
+   "name": {
+      "message": "Music Downloader Web"
+   },
+   "rateDialogDesc": {
+      "message": "Would you mind rating us on the Chrome Web Store? Thank you!"
+   },
+   "rateDialogNo": {
+      "message": "Maybe next time"
+   },
+   "rateDialogTitle": {
+      "message": "Useful App for you?"
+   },
+   "rateDialogYes": {
+      "message": "OK, sure"
+   }
+}

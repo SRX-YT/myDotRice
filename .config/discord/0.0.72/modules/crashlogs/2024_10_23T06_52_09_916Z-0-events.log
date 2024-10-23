@@ -1,0 +1,122 @@
+2024-10-23T06:52:09.921Z 0: 
+
+----------------------------------------------
+2024-10-23T06:52:09.928Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.72"}, modulepath: /home/user/.config/discord/0.0.72/modules
+2024-10-23T06:52:09.930Z 2: ✅ webContents.created web1 ""
+2024-10-23T06:52:09.932Z 3: ✅ window.created win1 "discord"
+2024-10-23T06:52:10.140Z 4: ✅ webContents.did-finish-load web1
+2024-10-23T06:53:38.910Z 5: window.close win1
+2024-10-23T06:53:38.926Z 6: webContents.destroyed web1
+2024-10-23T06:53:40.891Z 0: 
+
+----------------------------------------------
+2024-10-23T06:53:40.902Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.72"}, modulepath: /home/user/.config/discord/0.0.72/modules
+2024-10-23T06:53:40.905Z 2: ✅ webContents.created web1 ""
+2024-10-23T06:53:40.906Z 3: ✅ window.created win1 "discord"
+2024-10-23T06:53:41.106Z 4: ✅ webContents.did-finish-load web1
+2024-10-23T06:58:07.874Z 5: window.close win1
+2024-10-23T06:58:07.891Z 6: webContents.destroyed web1
+2024-10-23T06:58:10.279Z 0: 
+
+----------------------------------------------
+2024-10-23T06:58:10.287Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.72"}, modulepath: /home/user/.config/discord/0.0.72/modules
+2024-10-23T06:58:10.291Z 2: ✅ webContents.created web1 ""
+2024-10-23T06:58:10.292Z 3: ✅ window.created win1 "discord"
+2024-10-23T06:58:10.522Z 4: ✅ webContents.did-finish-load web1
+2024-10-23T06:58:15.233Z 5: window.close win1
+2024-10-23T06:58:15.250Z 6: webContents.destroyed web1
+2024-10-23T07:01:49.050Z 0: 
+
+----------------------------------------------
+2024-10-23T07:01:49.060Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.72"}, modulepath: /home/user/.config/discord/0.0.72/modules
+2024-10-23T07:01:49.063Z 2: ✅ webContents.created web1 ""
+2024-10-23T07:01:49.064Z 3: ✅ window.created win1 "discord"
+2024-10-23T07:01:49.270Z 4: ✅ webContents.did-finish-load web1
+2024-10-23T07:09:23.063Z 5: window.close win1
+2024-10-23T07:09:23.078Z 6: webContents.destroyed web1
+2024-10-23T07:09:25.063Z 0: 
+
+----------------------------------------------
+2024-10-23T07:09:25.074Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.72"}, modulepath: /home/user/.config/discord/0.0.72/modules
+2024-10-23T07:09:25.076Z 2: ✅ webContents.created web1 ""
+2024-10-23T07:09:25.077Z 3: ✅ window.created win1 "discord"
+2024-10-23T07:09:25.277Z 4: ✅ webContents.did-finish-load web1
+2024-10-23T07:09:31.655Z 5: window.close win1
+2024-10-23T07:11:47.052Z 0: 
+
+----------------------------------------------
+2024-10-23T07:11:47.061Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.72"}, modulepath: /home/user/.config/discord/0.0.72/modules
+2024-10-23T07:11:47.065Z 2: ✅ webContents.created web1 ""
+2024-10-23T07:11:47.066Z 3: ✅ window.created win1 "discord"
+2024-10-23T07:11:47.266Z 4: ✅ webContents.did-finish-load web1
+2024-10-23T07:11:48.457Z 5: window.close win1
+2024-10-23T07:11:48.473Z 6: webContents.destroyed web1
+2024-10-23T07:14:52.793Z 0: 
+
+----------------------------------------------
+2024-10-23T07:14:52.804Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.72"}, modulepath: /home/user/.config/discord/0.0.72/modules
+2024-10-23T07:14:52.808Z 2: ✅ webContents.created web1 ""
+2024-10-23T07:14:52.809Z 3: ✅ window.created win1 "discord"
+2024-10-23T07:14:53.006Z 4: ✅ webContents.did-finish-load web1
+2024-10-23T07:15:48.266Z 5: window.close win1
+2024-10-23T07:15:48.282Z 6: webContents.destroyed web1
+2024-10-23T07:15:50.213Z 0: 
+
+----------------------------------------------
+2024-10-23T07:15:50.224Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.72"}, modulepath: /home/user/.config/discord/0.0.72/modules
+2024-10-23T07:15:50.228Z 2: ✅ webContents.created web1 ""
+2024-10-23T07:15:50.229Z 3: ✅ window.created win1 "discord"
+2024-10-23T07:15:50.426Z 4: ✅ webContents.did-finish-load web1
+2024-10-23T07:18:43.971Z 5: window.close win1
+2024-10-23T07:18:43.989Z 6: webContents.destroyed web1
+2024-10-23T07:18:46.419Z 0: 
+
+----------------------------------------------
+2024-10-23T07:18:46.428Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.72"}, modulepath: /home/user/.config/discord/0.0.72/modules
+2024-10-23T07:18:46.431Z 2: ✅ webContents.created web1 ""
+2024-10-23T07:18:46.433Z 3: ✅ window.created win1 "discord"
+2024-10-23T07:18:46.633Z 4: ✅ webContents.did-finish-load web1
+2024-10-23T07:19:06.571Z 5: window.close win1
+2024-10-23T07:29:30.734Z 0: 
+
+----------------------------------------------
+2024-10-23T07:29:30.743Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.72"}, modulepath: /home/user/.config/discord/0.0.72/modules
+2024-10-23T07:29:30.746Z 2: ✅ webContents.created web1 ""
+2024-10-23T07:29:30.748Z 3: ✅ window.created win1 "discord"
+2024-10-23T07:29:30.963Z 4: ✅ webContents.did-finish-load web1
+2024-10-23T07:29:33.091Z 5: window.close win1
+2024-10-23T07:29:33.106Z 6: webContents.destroyed web1
+2024-10-23T07:43:49.958Z 0: 
+
+----------------------------------------------
+2024-10-23T07:43:49.968Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.72"}, modulepath: /home/user/.config/discord/0.0.72/modules
+2024-10-23T07:43:49.970Z 2: ✅ webContents.created web1 ""
+2024-10-23T07:43:49.972Z 3: ✅ window.created win1 "discord"
+2024-10-23T07:43:50.173Z 4: ✅ webContents.did-finish-load web1
+2024-10-23T07:43:59.503Z 5: window.close win1
+2024-10-23T07:43:59.518Z 6: webContents.destroyed web1
+2024-10-23T07:58:08.177Z 0: 
+
+----------------------------------------------
+2024-10-23T07:58:08.203Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.72"}, modulepath: /home/user/.config/discord/0.0.72/modules
+2024-10-23T07:58:08.223Z 2: ✅ webContents.created web1 ""
+2024-10-23T07:58:08.244Z 3: ✅ window.created win1 "discord"
+2024-10-23T07:58:08.408Z 4: ✅ webContents.did-finish-load web1
+2024-10-23T07:58:09.959Z 5: window.close win1
+2024-10-23T07:58:11.571Z 0: 
+
+----------------------------------------------
+2024-10-23T07:58:11.608Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.72"}, modulepath: /home/user/.config/discord/0.0.72/modules
+2024-10-23T07:58:11.640Z 2: ✅ webContents.created web1 "index.html"
+2024-10-23T07:58:11.672Z 3: ✅ window.created win1 "discord"
+2024-10-23T07:58:11.850Z 4: ✅ webContents.did-finish-load web1
+2024-10-23T07:58:12.519Z 5: window.close win1
+2024-10-23T08:05:30.213Z 0: 
+
+----------------------------------------------
+2024-10-23T08:05:30.223Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.72"}, modulepath: /home/user/.config/discord/0.0.72/modules
+2024-10-23T08:05:30.227Z 2: ✅ webContents.created web1 ""
+2024-10-23T08:05:30.228Z 3: ✅ window.created win1 "discord"
+2024-10-23T08:05:30.433Z 4: ✅ webContents.did-finish-load web1
+2024-10-23T08:05:31.636Z 5: window.close win1
+2024-10-23T08:05:31.644Z 6: webContents.destroyed web1

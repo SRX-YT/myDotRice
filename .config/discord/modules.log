@@ -1,0 +1,190 @@
+2024-10-23T06:52:09.878Z [Modules] Modules initializing
+2024-10-23T06:52:09.878Z [Modules] Distribution: remote
+2024-10-23T06:52:09.878Z [Modules] Host updates: enabled
+2024-10-23T06:52:09.878Z [Modules] Module updates: enabled
+2024-10-23T06:52:09.878Z [Modules] Module install path: /home/user/.config/discord/0.0.72/modules
+2024-10-23T06:52:09.878Z [Modules] Module installed file path: /home/user/.config/discord/0.0.72/modules/installed.json
+2024-10-23T06:52:09.878Z [Modules] Module download path: /home/user/.config/discord/0.0.72/modules/pending
+2024-10-23T06:52:10.069Z [Modules] Bootstrapping...
+2024-10-23T06:52:10.069Z [Modules] Installing discord_desktop_core@0 from /opt/discord/resources/bootstrap/discord_desktop_core.zip
+2024-10-23T06:52:10.072Z [Modules] Failed installing discord_desktop_core@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_desktop_core.zip'
+2024-10-23T06:52:10.072Z [Modules] Installing discord_erlpack@0 from /opt/discord/resources/bootstrap/discord_erlpack.zip
+2024-10-23T06:52:10.074Z [Modules] Failed installing discord_erlpack@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_erlpack.zip'
+2024-10-23T06:52:10.074Z [Modules] Installing discord_spellcheck@0 from /opt/discord/resources/bootstrap/discord_spellcheck.zip
+2024-10-23T06:52:10.075Z [Modules] Failed installing discord_spellcheck@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_spellcheck.zip'
+2024-10-23T06:52:10.076Z [Modules] Installing discord_utils@0 from /opt/discord/resources/bootstrap/discord_utils.zip
+2024-10-23T06:52:10.078Z [Modules] Failed installing discord_utils@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_utils.zip'
+2024-10-23T06:52:10.078Z [Modules] Installing discord_voice@0 from /opt/discord/resources/bootstrap/discord_voice.zip
+2024-10-23T06:52:10.079Z [Modules] Failed installing discord_voice@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_voice.zip'
+2024-10-23T06:52:10.079Z [Modules] Installing discord_zstd@0 from /opt/discord/resources/bootstrap/discord_zstd.zip
+2024-10-23T06:52:10.080Z [Modules] Failed installing discord_zstd@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_zstd.zip'
+2024-10-23T06:52:10.080Z [Modules] Finished module installations. [success: 0] [failure: 6]
+2024-10-23T06:52:10.080Z [Modules] Checking for host updates.
+2024-10-23T06:52:55.269Z [Modules] Host update failed: Error: Client network socket disconnected before secure TLS connection was established
+2024-10-23T06:53:15.274Z [Modules] Checking for host updates.
+2024-10-23T06:53:40.856Z [Modules] Modules initializing
+2024-10-23T06:53:40.856Z [Modules] Distribution: remote
+2024-10-23T06:53:40.856Z [Modules] Host updates: enabled
+2024-10-23T06:53:40.856Z [Modules] Module updates: enabled
+2024-10-23T06:53:40.856Z [Modules] Module install path: /home/user/.config/discord/0.0.72/modules
+2024-10-23T06:53:40.856Z [Modules] Module installed file path: /home/user/.config/discord/0.0.72/modules/installed.json
+2024-10-23T06:53:40.856Z [Modules] Module download path: /home/user/.config/discord/0.0.72/modules/pending
+2024-10-23T06:53:41.042Z [Modules] No updates to install
+2024-10-23T06:53:41.042Z [Modules] Checking for host updates.
+2024-10-23T06:54:26.240Z [Modules] Host update failed: Error: Client network socket disconnected before secure TLS connection was established
+2024-10-23T06:54:46.244Z [Modules] Checking for host updates.
+2024-10-23T06:55:31.408Z [Modules] Host update failed: Error: Client network socket disconnected before secure TLS connection was established
+2024-10-23T06:56:11.433Z [Modules] Checking for host updates.
+2024-10-23T06:56:56.592Z [Modules] Host update failed: Error: Client network socket disconnected before secure TLS connection was established
+2024-10-23T06:57:11.455Z [Modules] Checking for host updates.
+2024-10-23T06:57:56.612Z [Modules] Host update failed: Error: Client network socket disconnected before secure TLS connection was established
+2024-10-23T06:58:10.245Z [Modules] Modules initializing
+2024-10-23T06:58:10.245Z [Modules] Distribution: remote
+2024-10-23T06:58:10.245Z [Modules] Host updates: enabled
+2024-10-23T06:58:10.245Z [Modules] Module updates: enabled
+2024-10-23T06:58:10.245Z [Modules] Module install path: /home/user/.config/discord/0.0.72/modules
+2024-10-23T06:58:10.245Z [Modules] Module installed file path: /home/user/.config/discord/0.0.72/modules/installed.json
+2024-10-23T06:58:10.245Z [Modules] Module download path: /home/user/.config/discord/0.0.72/modules/pending
+2024-10-23T06:58:10.431Z [Modules] No updates to install
+2024-10-23T06:58:10.431Z [Modules] Checking for host updates.
+2024-10-23T07:01:49.014Z [Modules] Modules initializing
+2024-10-23T07:01:49.014Z [Modules] Distribution: remote
+2024-10-23T07:01:49.014Z [Modules] Host updates: enabled
+2024-10-23T07:01:49.014Z [Modules] Module updates: enabled
+2024-10-23T07:01:49.014Z [Modules] Module install path: /home/user/.config/discord/0.0.72/modules
+2024-10-23T07:01:49.014Z [Modules] Module installed file path: /home/user/.config/discord/0.0.72/modules/installed.json
+2024-10-23T07:01:49.014Z [Modules] Module download path: /home/user/.config/discord/0.0.72/modules/pending
+2024-10-23T07:01:49.201Z [Modules] No updates to install
+2024-10-23T07:01:49.202Z [Modules] Checking for host updates.
+2024-10-23T07:02:34.434Z [Modules] Host update failed: Error: Client network socket disconnected before secure TLS connection was established
+2024-10-23T07:02:54.440Z [Modules] Checking for host updates.
+2024-10-23T07:03:39.594Z [Modules] Host update failed: Error: Client network socket disconnected before secure TLS connection was established
+2024-10-23T07:04:19.618Z [Modules] Checking for host updates.
+2024-10-23T07:05:04.774Z [Modules] Host update failed: Error: Client network socket disconnected before secure TLS connection was established
+2024-10-23T07:05:19.637Z [Modules] Checking for host updates.
+2024-10-23T07:06:04.795Z [Modules] Host update failed: Error: Client network socket disconnected before secure TLS connection was established
+2024-10-23T07:06:29.654Z [Modules] Checking for host updates.
+2024-10-23T07:07:14.813Z [Modules] Host update failed: Error: Client network socket disconnected before secure TLS connection was established
+2024-10-23T07:07:39.675Z [Modules] Checking for host updates.
+2024-10-23T07:08:24.798Z [Modules] Host update failed: Error: Client network socket disconnected before secure TLS connection was established
+2024-10-23T07:08:49.694Z [Modules] Checking for host updates.
+2024-10-23T07:09:25.028Z [Modules] Modules initializing
+2024-10-23T07:09:25.028Z [Modules] Distribution: remote
+2024-10-23T07:09:25.028Z [Modules] Host updates: enabled
+2024-10-23T07:09:25.028Z [Modules] Module updates: enabled
+2024-10-23T07:09:25.028Z [Modules] Module install path: /home/user/.config/discord/0.0.72/modules
+2024-10-23T07:09:25.028Z [Modules] Module installed file path: /home/user/.config/discord/0.0.72/modules/installed.json
+2024-10-23T07:09:25.028Z [Modules] Module download path: /home/user/.config/discord/0.0.72/modules/pending
+2024-10-23T07:09:25.215Z [Modules] No updates to install
+2024-10-23T07:09:25.216Z [Modules] Checking for host updates.
+2024-10-23T07:11:47.014Z [Modules] Modules initializing
+2024-10-23T07:11:47.014Z [Modules] Distribution: remote
+2024-10-23T07:11:47.014Z [Modules] Host updates: enabled
+2024-10-23T07:11:47.014Z [Modules] Module updates: enabled
+2024-10-23T07:11:47.014Z [Modules] Module install path: /home/user/.config/discord/0.0.72/modules
+2024-10-23T07:11:47.014Z [Modules] Module installed file path: /home/user/.config/discord/0.0.72/modules/installed.json
+2024-10-23T07:11:47.014Z [Modules] Module download path: /home/user/.config/discord/0.0.72/modules/pending
+2024-10-23T07:11:47.202Z [Modules] No updates to install
+2024-10-23T07:11:47.202Z [Modules] Checking for host updates.
+2024-10-23T07:14:52.760Z [Modules] Modules initializing
+2024-10-23T07:14:52.760Z [Modules] Distribution: remote
+2024-10-23T07:14:52.760Z [Modules] Host updates: enabled
+2024-10-23T07:14:52.760Z [Modules] Module updates: enabled
+2024-10-23T07:14:52.760Z [Modules] Module install path: /home/user/.config/discord/0.0.72/modules
+2024-10-23T07:14:52.760Z [Modules] Module installed file path: /home/user/.config/discord/0.0.72/modules/installed.json
+2024-10-23T07:14:52.760Z [Modules] Module download path: /home/user/.config/discord/0.0.72/modules/pending
+2024-10-23T07:14:52.946Z [Modules] No updates to install
+2024-10-23T07:14:52.946Z [Modules] Checking for host updates.
+2024-10-23T07:15:38.142Z [Modules] Host update failed: Error: Client network socket disconnected before secure TLS connection was established
+2024-10-23T07:15:50.179Z [Modules] Modules initializing
+2024-10-23T07:15:50.179Z [Modules] Distribution: remote
+2024-10-23T07:15:50.179Z [Modules] Host updates: enabled
+2024-10-23T07:15:50.179Z [Modules] Module updates: enabled
+2024-10-23T07:15:50.179Z [Modules] Module install path: /home/user/.config/discord/0.0.72/modules
+2024-10-23T07:15:50.179Z [Modules] Module installed file path: /home/user/.config/discord/0.0.72/modules/installed.json
+2024-10-23T07:15:50.179Z [Modules] Module download path: /home/user/.config/discord/0.0.72/modules/pending
+2024-10-23T07:15:50.363Z [Modules] No updates to install
+2024-10-23T07:15:50.364Z [Modules] Checking for host updates.
+2024-10-23T07:16:35.559Z [Modules] Host update failed: Error: Client network socket disconnected before secure TLS connection was established
+2024-10-23T07:16:55.564Z [Modules] Checking for host updates.
+2024-10-23T07:17:40.721Z [Modules] Host update failed: Error: Client network socket disconnected before secure TLS connection was established
+2024-10-23T07:18:20.745Z [Modules] Checking for host updates.
+2024-10-23T07:18:46.385Z [Modules] Modules initializing
+2024-10-23T07:18:46.385Z [Modules] Distribution: remote
+2024-10-23T07:18:46.385Z [Modules] Host updates: enabled
+2024-10-23T07:18:46.385Z [Modules] Module updates: enabled
+2024-10-23T07:18:46.386Z [Modules] Module install path: /home/user/.config/discord/0.0.72/modules
+2024-10-23T07:18:46.386Z [Modules] Module installed file path: /home/user/.config/discord/0.0.72/modules/installed.json
+2024-10-23T07:18:46.386Z [Modules] Module download path: /home/user/.config/discord/0.0.72/modules/pending
+2024-10-23T07:18:46.570Z [Modules] No updates to install
+2024-10-23T07:18:46.571Z [Modules] Checking for host updates.
+2024-10-23T07:29:30.700Z [Modules] Modules initializing
+2024-10-23T07:29:30.700Z [Modules] Distribution: remote
+2024-10-23T07:29:30.700Z [Modules] Host updates: enabled
+2024-10-23T07:29:30.700Z [Modules] Module updates: enabled
+2024-10-23T07:29:30.700Z [Modules] Module install path: /home/user/.config/discord/0.0.72/modules
+2024-10-23T07:29:30.700Z [Modules] Module installed file path: /home/user/.config/discord/0.0.72/modules/installed.json
+2024-10-23T07:29:30.701Z [Modules] Module download path: /home/user/.config/discord/0.0.72/modules/pending
+2024-10-23T07:29:30.895Z [Modules] No updates to install
+2024-10-23T07:29:30.895Z [Modules] Checking for host updates.
+2024-10-23T07:43:49.921Z [Modules] Modules initializing
+2024-10-23T07:43:49.921Z [Modules] Distribution: remote
+2024-10-23T07:43:49.921Z [Modules] Host updates: enabled
+2024-10-23T07:43:49.921Z [Modules] Module updates: enabled
+2024-10-23T07:43:49.921Z [Modules] Module install path: /home/user/.config/discord/0.0.72/modules
+2024-10-23T07:43:49.921Z [Modules] Module installed file path: /home/user/.config/discord/0.0.72/modules/installed.json
+2024-10-23T07:43:49.921Z [Modules] Module download path: /home/user/.config/discord/0.0.72/modules/pending
+2024-10-23T07:43:50.109Z [Modules] No updates to install
+2024-10-23T07:43:50.109Z [Modules] Checking for host updates.
+2024-10-23T07:58:08.143Z [Modules] Modules initializing
+2024-10-23T07:58:08.143Z [Modules] Distribution: remote
+2024-10-23T07:58:08.143Z [Modules] Host updates: enabled
+2024-10-23T07:58:08.144Z [Modules] Module updates: enabled
+2024-10-23T07:58:08.144Z [Modules] Module install path: /home/user/.config/discord/0.0.72/modules
+2024-10-23T07:58:08.144Z [Modules] Module installed file path: /home/user/.config/discord/0.0.72/modules/installed.json
+2024-10-23T07:58:08.144Z [Modules] Module download path: /home/user/.config/discord/0.0.72/modules/pending
+2024-10-23T07:58:08.332Z [Modules] No updates to install
+2024-10-23T07:58:08.333Z [Modules] Checking for host updates.
+2024-10-23T07:58:08.369Z [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+2024-10-23T07:58:11.536Z [Modules] Modules initializing
+2024-10-23T07:58:11.536Z [Modules] Distribution: remote
+2024-10-23T07:58:11.536Z [Modules] Host updates: enabled
+2024-10-23T07:58:11.536Z [Modules] Module updates: enabled
+2024-10-23T07:58:11.536Z [Modules] Module install path: /home/user/.config/discord/0.0.72/modules
+2024-10-23T07:58:11.536Z [Modules] Module installed file path: /home/user/.config/discord/0.0.72/modules/installed.json
+2024-10-23T07:58:11.537Z [Modules] Module download path: /home/user/.config/discord/0.0.72/modules/pending
+2024-10-23T07:58:11.727Z [Modules] No updates to install
+2024-10-23T07:58:11.727Z [Modules] Checking for host updates.
+2024-10-23T07:58:11.763Z [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+2024-10-23T08:05:30.177Z [Modules] Modules initializing
+2024-10-23T08:05:30.177Z [Modules] Distribution: remote
+2024-10-23T08:05:30.177Z [Modules] Host updates: enabled
+2024-10-23T08:05:30.177Z [Modules] Module updates: enabled
+2024-10-23T08:05:30.178Z [Modules] Module install path: /home/user/.config/discord/0.0.72/modules
+2024-10-23T08:05:30.178Z [Modules] Module installed file path: /home/user/.config/discord/0.0.72/modules/installed.json
+2024-10-23T08:05:30.178Z [Modules] Module download path: /home/user/.config/discord/0.0.72/modules/pending
+2024-10-23T08:05:30.364Z [Modules] No updates to install
+2024-10-23T08:05:30.364Z [Modules] Checking for host updates.
+2024-10-23T08:05:30.715Z [Modules] Host is up to date.
+2024-10-23T08:05:30.715Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-10-23T08:05:30.831Z [Modules] Module update available: discord_desktop_core@1 [installed: 0]
+2024-10-23T08:05:30.832Z [Modules] Module update available: discord_erlpack@1 [installed: 0]
+2024-10-23T08:05:30.832Z [Modules] Module update available: discord_spellcheck@1 [installed: 0]
+2024-10-23T08:05:30.832Z [Modules] Module update available: discord_utils@1 [installed: 0]
+2024-10-23T08:05:30.832Z [Modules] Module update available: discord_voice@1 [installed: 0]
+2024-10-23T08:05:30.832Z [Modules] Module update available: discord_zstd@1 [installed: 0]
+2024-10-23T08:05:30.832Z [Modules] Fetching discord_desktop_core@1 from https://discord.com/api/modules/stable/discord_desktop_core/1
+2024-10-23T08:05:30.832Z [Modules] Streaming discord_desktop_core@1 to /home/user/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip
+2024-10-23T08:05:31.476Z [Modules] Streaming discord_desktop_core@1 to /home/user/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 1%
+2024-10-23T08:05:31.491Z [Modules] Streaming discord_desktop_core@1 to /home/user/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 2%
+2024-10-23T08:05:31.529Z [Modules] Streaming discord_desktop_core@1 to /home/user/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 3%
+2024-10-23T08:05:31.546Z [Modules] Streaming discord_desktop_core@1 to /home/user/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 4%
+2024-10-23T08:05:31.570Z [Modules] Streaming discord_desktop_core@1 to /home/user/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 5%
+2024-10-23T08:05:31.577Z [Modules] Streaming discord_desktop_core@1 to /home/user/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 6%
+2024-10-23T08:05:31.587Z [Modules] Streaming discord_desktop_core@1 to /home/user/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 7%
+2024-10-23T08:05:31.600Z [Modules] Streaming discord_desktop_core@1 to /home/user/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 8%
+2024-10-23T08:05:31.608Z [Modules] Streaming discord_desktop_core@1 to /home/user/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 9%
+2024-10-23T08:05:31.620Z [Modules] Streaming discord_desktop_core@1 to /home/user/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 10%
+2024-10-23T08:05:31.626Z [Modules] Streaming discord_desktop_core@1 to /home/user/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 11%
+2024-10-23T08:05:31.631Z [Modules] Streaming discord_desktop_core@1 to /home/user/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 12%
+2024-10-23T08:05:31.642Z [Modules] Streaming discord_desktop_core@1 to /home/user/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 13%

@@ -1,0 +1,26 @@
+{
+   "description": {
+      "message": "VK에서 음악을 저장하는 것이 쉬워졌습니다! 비트 전송률과 크기를 확인하여 좋아하는 트랙을 다운로드하세요."
+   },
+   "extShortName": {
+      "message": "VKsaver"
+   },
+   "lang": {
+      "message": "en"
+   },
+   "name": {
+      "message": " VK Music Downloader - VKsaver"
+   },
+   "rateDialogDesc": {
+      "message": "Would you mind rating us on the Chrome Web Store? Thank you!"
+   },
+   "rateDialogNo": {
+      "message": "Maybe next time"
+   },
+   "rateDialogTitle": {
+      "message": "Useful App for you?"
+   },
+   "rateDialogYes": {
+      "message": "OK, sure"
+   }
+}

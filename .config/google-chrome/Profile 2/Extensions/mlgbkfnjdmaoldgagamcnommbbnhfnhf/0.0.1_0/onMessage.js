@@ -1,0 +1,1 @@
+onmessage=a=>{fetch(a.data).then((()=>{})).catch((a=>{}))};
