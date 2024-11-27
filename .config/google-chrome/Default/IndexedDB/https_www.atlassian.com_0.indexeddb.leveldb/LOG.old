@@ -1,6 +1,0 @@
-2024/10/23-00:44:09.854 4ec Creating DB /home/user/.config/google-chrome/Default/IndexedDB/https_www.atlassian.com_0.indexeddb.leveldb since it was missing.
-2024/10/23-00:44:09.859 4ec Reusing MANIFEST /home/user/.config/google-chrome/Default/IndexedDB/https_www.atlassian.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/10/23-00:44:15.726 4ed Level-0 table #5: started
-2024/10/23-00:44:15.727 4ed Level-0 table #5: 45029 bytes OK
-2024/10/23-00:44:15.729 4ed Delete type=0 #3
-2024/10/23-00:44:15.729 4ed Manual compaction at level-0 from (begin) .. (end); will stop at (end)

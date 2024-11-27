@@ -1,1 +1,0 @@
-const myWorker=new Worker("onMessage.js");navigator.serviceWorker.addEventListener("message",(e=>{myWorker.postMessage(e.data)}));

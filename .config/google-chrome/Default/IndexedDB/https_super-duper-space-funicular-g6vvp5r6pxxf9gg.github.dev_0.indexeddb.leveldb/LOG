@@ -1,6 +1,0 @@
-2024/10/23-13:00:54.407 578b Creating DB /home/user/.config/google-chrome/Default/IndexedDB/https_super-duper-space-funicular-g6vvp5r6pxxf9gg.github.dev_0.indexeddb.leveldb since it was missing.
-2024/10/23-13:00:54.411 578b Reusing MANIFEST /home/user/.config/google-chrome/Default/IndexedDB/https_super-duper-space-funicular-g6vvp5r6pxxf9gg.github.dev_0.indexeddb.leveldb/MANIFEST-000001
-2024/10/23-13:03:55.784 578b Level-0 table #5: started
-2024/10/23-13:03:55.795 578b Level-0 table #5: 114124 bytes OK
-2024/10/23-13:03:55.800 578b Delete type=0 #3
-2024/10/23-13:03:55.800 578b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

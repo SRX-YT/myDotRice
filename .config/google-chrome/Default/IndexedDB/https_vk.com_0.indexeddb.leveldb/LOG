@@ -1,7 +1,0 @@
-2024/10/23-12:39:37.925 3af9 Reusing MANIFEST /home/user/.config/google-chrome/Default/IndexedDB/https_vk.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/10/23-12:39:37.926 3af9 Recovering log #3
-2024/10/23-12:39:37.927 3af9 Reusing old log /home/user/.config/google-chrome/Default/IndexedDB/https_vk.com_0.indexeddb.leveldb/000003.log 
-2024/10/23-12:40:10.043 3af1 Level-0 table #5: started
-2024/10/23-12:40:10.046 3af1 Level-0 table #5: 4656 bytes OK
-2024/10/23-12:40:10.048 3af1 Delete type=0 #3
-2024/10/23-12:40:10.049 3af1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
