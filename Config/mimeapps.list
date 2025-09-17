@@ -1,0 +1,16 @@
+[Added Associations]
+image/jpeg=sxiv-2.desktop;
+text/plain=userapp-nvim-7KLOC3.desktop;vim.desktop;code.desktop;
+image/png=sxiv.desktop;
+
+[Default Applications]
+image/jpeg=sxiv-2.desktop;
+text/html=google-chrome.desktop
+x-scheme-handler/about=google-chrome.desktop
+x-scheme-handler/http=google-chrome.desktop
+x-scheme-handler/https=google-chrome.desktop
+x-scheme-handler/unknown=google-chrome.desktop
+inode/directory=nemo.desktop
+application/x-gnome-saved-search=nemo.desktop
+text/plain=code.desktop
+image/png=sxiv.desktop
