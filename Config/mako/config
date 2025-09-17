@@ -1,0 +1,22 @@
+font="Maple Mono" 12
+background-color=#282828FF
+text-color=#ebdbb2FF
+border-color=#828374ff
+icons=1
+anchor=top-center
+progress-color=over #458588ff
+width=400
+height=200
+
+[app-name=wp-vol]
+layer=overlay
+history=0
+anchor=center
+# Group all volume notifications together
+group-by=app-name
+# Hide the group-index
+format=<b>%s</b>\n%b
+
+[app-name=volume group-index=0]
+# Only show last notification
+invisible=0
